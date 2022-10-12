@@ -1,0 +1,9 @@
+fruit = {
+  "elderberries": 1,
+  "figs": 1,
+  "apples": 2,
+  "durians": 3,
+  "bananas": 5,
+  "cherries": 8,
+  "grapes": 13
+}
